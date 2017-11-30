@@ -5,6 +5,9 @@
   "author": "Diego Guerra <dgoguerra.or@gmail.com>",
   "license": "MIT",
   "homepage": "https://github.com/dgoguerra/parse-repo",
+  "bin": {
+    "parse-repo": "./cli.js"
+  },
   "keywords": [
     "parse",
     "repository",
